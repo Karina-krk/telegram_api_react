@@ -1,0 +1,16 @@
+.p-speeddial-button.p-button.p-button-icon-only{
+    position: absolute;
+    left: 30px;
+    color: pink;
+
+}
+.p-speeddial-action{
+    margin-left: 100px;
+    background-color: cadetblue;
+}
+.list{
+    padding: 100px;
+    background-color:rgb(216, 240, 255);
+    display: flex;
+    justify-content: space-between;
+}
